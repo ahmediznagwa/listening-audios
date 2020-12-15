@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#002B7F;}
+	.st2{fill:#F9E814;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="-15" class="st1" width="90" height="60"/>
+		<path class="st2" d="M-15,37.5h90V45h-90V37.5z"/>
+		<g>
+			<polygon class="st3" points="21.2551,29.1202 25.1737,26.2732 20.3301,26.2732 18.8333,21.6667 17.3366,26.2732 12.493,26.2732 
+				16.4115,29.1202 14.9148,33.7268 18.8333,30.8798 22.7519,33.7268 			"/>
+			<polygon class="st3" points="10.6497,18.9235 13.5886,16.7882 9.9559,16.7882 8.8333,13.3333 7.7108,16.7882 4.0781,16.7882 
+				7.017,18.9235 5.8944,22.3784 8.8333,20.2432 11.7723,22.3784 			"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#DA121A;}
+	.st1{clip-path:url(#SVGID_4_);fill:#FCDD09;}
+	.st2{clip-path:url(#SVGID_6_);fill:#078930;}
+	.st3{fill:#0F47AF;}
+	.st4{fill:#FCDD09;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect y="40" class="st0" width="60" height="20"/>
+</g>
+<g>
+	<defs>
+		<circle id="SVGID_3_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect y="20" class="st1" width="60" height="20"/>
+</g>
+<g>
+	<defs>
+		<circle id="SVGID_5_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect class="st2" width="60" height="20"/>
+</g>
+<g>
+	<ellipse class="st3" cx="29.9998" cy="30.0007" rx="14.9992" ry="15.0016"/>
+	<path class="st4" d="M29.4673,19.5757l0.5264-1.6571l2.7079,8.33l6.411,0.004l-1.38,1.0104H28.416l0.3147-0.9675l0.0358-0.0429
+		h2.8772L29.4673,19.5757L29.4673,19.5757z M22.7072,20.4414l3.8242,5.2676l0.4278-0.2895l-3.8394-5.2896L22.7072,20.4414
+		L22.7072,20.4414z M33.0316,25.4161l0.4264,0.2929l3.8242-5.2676l-0.4094-0.3115L33.0316,25.4161L33.0316,25.4161z
+		 M29.2578,20.1583c-0.0311,0.1482-1.9594,6.0903-1.9594,6.0903l-8.7658,0.004l1.3708,1.0104h7.0558l-0.8941,2.7668l0.8597,0.6216
+		l2.8904-8.8737L29.2578,20.1583L29.2578,20.1583z M35.1959,29.561l-1.1584,0.8206l-0.8822-2.7435h-1.0646l2.8698,8.8538
+		l1.396,1.0064l-1.9812-6.0916l7.0881-5.154h-1.7247L35.1959,29.561z M20.4351,27.6381l5.1797,3.7686L22.9076,39.74l1.3933-1.0144
+		l2.1874-6.6881l2.3397,1.6981l0.851-0.6322l-7.5272-5.4654H20.4351L20.4351,27.6381z M25.3443,36.7199l-0.5329,1.6287l5.1823-3.756
+		l7.0908,5.1414l-0.531-1.6281l-5.6902-4.1395l2.3356-1.7021l-0.3187-1.0111L25.3443,36.7199z M18.4612,33.5081l0.1415,0.4689
+		l6.2192-1.9984l-0.1509-0.4907L18.4612,33.5081L18.4612,33.5081z M35.3229,31.4879l-0.1574,0.4907l6.2191,1.9984l0.1541-0.4689
+		L35.3229,31.4879L35.3229,31.4879z M29.7372,42.0808h0.5157v-6.5373h-0.5092L29.7372,42.0808L29.7372,42.0808z"/>
+</g>
+</svg>

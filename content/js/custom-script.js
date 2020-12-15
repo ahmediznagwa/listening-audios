@@ -3645,9 +3645,9 @@ $('[data-model="scroll"]').each(function () {
 // Audio Player Small
 
 // Simple Accordion
-$(".simple-explandable .content").each(function () {
-    $(this).find('i').on("click", function () {
-        const el = $(this).parent();
+$(".simple-explandable .chevron-down-icon").each(function () {
+    $(this).on("click", function () {
+        const el = $(this).parent().find('.content');
         if (el.hasClass("expanded")) {
             const actualHeight = el.outerHeight();
             el.attr("data-height", actualHeight);

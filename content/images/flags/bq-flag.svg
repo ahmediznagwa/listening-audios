@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#012A87;}
+	.st3{fill:#F9D90F;}
+	.st4{fill:none;stroke:#000000;stroke-width:1.65;}
+	.st5{fill:#DC171D;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="-15" class="st1" width="90" height="60"/>
+		<path class="st2" d="M75,60h-90L75,0V60z"/>
+		<path class="st3" d="M-15,0v25L22.5,0H-15z"/>
+		<circle class="st4" cx="9.75" cy="25.95" r="12"/>
+		<g id="g">
+			<path id="a" d="M9.75,10.4752L12,14.3723H7.5L9.75,10.4752z"/>
+			<g transform="rotate(180,165,173)">
+				<path id="a_1_" d="M9.75,41.4248L7.5,37.5277H12L9.75,41.4248z"/>
+			</g>
+		</g>
+		<g>
+			<g id="g_1_">
+				<path id="a_2_" d="M25.2248,25.95l-3.8971,2.25v-4.5L25.2248,25.95z"/>
+				<g transform="rotate(90,165,173)">
+					<path id="a_3_" d="M-5.7248,25.95l3.8971-2.25v4.5L-5.7248,25.95z"/>
+				</g>
+			</g>
+			<polygon class="st5" points="14.1667,25.95 16.3751,22.125 11.9584,22.125 9.75,18.3 7.5416,22.125 3.1249,22.125 5.3333,25.95 
+				3.1249,29.775 7.5416,29.775 9.75,33.6 11.9584,29.775 16.3751,29.775 			"/>
+		</g>
+	</g>
+</g>
+</svg>

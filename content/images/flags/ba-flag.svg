@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#002395;}
+	.st2{fill:#FECB00;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect x="-49.5" y="-1.8986" class="st1" width="133" height="66.5"/>
+		<path class="st2" d="M-14.255-1.8986h66.5v66.5L-14.255-1.8986z"/>
+		<g id="g">
+			<path id="s" class="st3" d="M-29.9383,2.4642l3.7133-11.4285l3.7133,11.4285l-9.7216-7.0632h12.0166L-29.9383,2.4642z"/>
+			<g>
+				<path id="s_1_" class="st3" d="M-21.6258,10.7767l3.7133-11.4285l3.7133,11.4285l-9.7216-7.0632h12.0166L-21.6258,10.7767z"/>
+			</g>
+			<g>
+				<path id="s_2_" class="st3" d="M-13.3133,19.0892L-9.6,7.6608l3.7133,11.4285l-9.7216-7.0632h12.0166L-13.3133,19.0892z"/>
+			</g>
+		</g>
+		<g>
+			<g id="g_1_">
+				<path id="s_3_" class="st3" d="M-5.0008,27.4017l3.7133-11.4285l3.7133,11.4285l-9.7216-7.0632H4.7208L-5.0008,27.4017z"/>
+				<g>
+					<path id="s_4_" class="st3" d="M3.3117,35.7142L7.025,24.2858l3.7133,11.4285l-9.7216-7.0632h12.0166L3.3117,35.7142z"/>
+				</g>
+				<g>
+					<path id="s_5_" class="st3" d="M11.6242,44.0267l3.7133-11.4285l3.7133,11.4285l-9.7216-7.0632h12.0166L11.6242,44.0267z"/>
+				</g>
+			</g>
+			<g>
+				<g id="g_2_">
+					<path id="s_6_" class="st3" d="M19.9367,52.3392L23.65,40.9108l3.7133,11.4285l-9.7216-7.0632h12.0166L19.9367,52.3392z"/>
+					<g>
+						<path id="s_7_" class="st3" d="M28.2492,60.6517l3.7133-11.4285l3.7133,11.4285l-9.7216-7.0632h12.0166L28.2492,60.6517z"/>
+					</g>
+					<g>
+						<path id="s_8_" class="st3" d="M36.5617,68.9642l3.7133-11.4285l3.7133,11.4285l-9.7216-7.0632h12.0166L36.5617,68.9642z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

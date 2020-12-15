@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#009E49;}
+	.st1{clip-path:url(#SVGID_2_);fill:#CE1126;}
+	.st2{clip-path:url(#SVGID_2_);stroke:#FCD116;stroke-width:25.2;}
+	.st3{clip-path:url(#SVGID_2_);stroke:#000000;stroke-width:18;}
+	.st4{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="30" cy="30" r="30"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0" d="M75,0h-90v60"/>
+	<path class="st1" d="M-15,60h90V0"/>
+	<path class="st2" d="M-15,60L75,0"/>
+	<path class="st3" d="M-15,60L75,0"/>
+	<path id="t" class="st4" d="M42.4405,11.6108l2.2716,8.087l4.0435-1.1358"/>
+	<path id="t_2_" class="st4" d="M52.3073,12.0088l-6.9892,4.6595l2.3297,3.4946"/>
+	<path id="t_4_" class="st4" d="M54.9778,21.5156l-6.5912-5.2073l-2.6036,3.2956"/>
+	<path id="t_6_" class="st4" d="M46.7614,26.9932l2.9156-7.8778l-3.9389-1.4578"/>
+	<path id="t_8_" class="st4" d="M39.013,20.8716l8.3932,0.3386l0.1693-4.1966"/>
+	<polygon class="st4" points="47.8688,21.2289 54.9778,21.5156 49.8378,18.6812 52.3073,12.0088 48.0232,16.0212 42.4406,11.6108 
+		44.9328,16.9251 39.013,20.8716 44.8374,20.1436 46.7614,26.9932 	"/>
+	<path id="t_10_" class="st4" d="M8.2405,34.4108l2.2716,8.087l4.0435-1.1358"/>
+	<path id="t_11_" class="st4" d="M8.2405,34.4108l6.5912,5.2073l-2.6036,3.2956"/>
+	<path id="t_12_" class="st4" d="M18.1073,34.8088l-6.9892,4.6595l2.3297,3.4946"/>
+	<path id="t_13_" class="st4" d="M18.1073,34.8088l-2.9156,7.8778l-3.9389-1.4578"/>
+	<path id="t_14_" class="st4" d="M20.7778,44.3156l-6.5912-5.2073l-2.6036,3.2956"/>
+	<path id="t_15_" class="st4" d="M20.7778,44.3156l-8.3932-0.3386l0.1693-4.1966"/>
+	<path id="t_16_" class="st4" d="M12.5614,49.7932l2.9156-7.8778l-3.9389-1.4578"/>
+	<path id="t_17_" class="st4" d="M12.5614,49.7932l-2.2716-8.087l4.0435-1.1358"/>
+	<path id="t_18_" class="st4" d="M4.813,43.6716l8.3932,0.3386l0.1693-4.1966"/>
+	<path id="t_19_" class="st4" d="M4.813,43.6716l6.9892-4.6595l2.3297,3.4946"/>
+</g>
+</svg>
