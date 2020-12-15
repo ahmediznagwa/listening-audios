@@ -3645,20 +3645,22 @@ $('[data-model="scroll"]').each(function () {
 // Audio Player Small
 
 // Simple Accordion
-$(".simple-explandable").each(function () {
+$(".simple-explandable .content").each(function () {
     $(this).find('i').on("click", function () {
         const el = $(this).parent();
         if (el.hasClass("expanded")) {
             const actualHeight = el.outerHeight();
             el.attr("data-height", actualHeight);
+            el.closest('.simple-explandable').removeClass("expanded");
             el.removeClass("expanded");
             el.animate(
                 {
-                    height: 85,
+                    height: 55,
                 },
                 300
             );
         } else {
+            el.closest('.simple-explandable').addClass("expanded");
             el.addClass("expanded");
             el.animate(
                 {
